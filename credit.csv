@@ -1,0 +1,5 @@
+Age,Income,Dependents,creditworthiness
+25,500000,1,Approved 
+35,7500000,2,Approved 
+45,4500000,3,Rejected
+55,670000,4,Rejected
